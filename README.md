@@ -7,10 +7,15 @@ Amazon has transformed itself from an online bookstore, to a tech giant today. A
 ## 1. [Amazon knows a lot about us. Should we be worried?](https://www.teiss.co.uk/amazon-knows-a-lot-about-us-should-we-be-worried/)
 
 An extremely valuable commodity of today’s digital age is data. How this data helps is through understanding of behavior and preferences of a huge global market of users on the internet, which helps in accurate ad targeting and ecommerce product preferencing, besides many others. However, Amazon’s increasing scale of data collection through an enormous range of mediums may lead many to consider it to an even frightening extent, as the article suggests. Besides user’s buying patterns and routines, it also collects what they search for and how many times they click on the search item. It further collects the following:
+
 •	Your location
+
 •	The device(s) you are using
+
 •	Alexa voice assistant interactions, including specific songs and the time of the request; these are perhaps the most controversial of all
+
 •	Your Kindle use, including exact time of day for each tap
+
 •	Your detailed clickstreams: these are the trails that show which sites users come from, how they travel through Amazon's own pages, and where they go to next
 
 On an immediate basis, it gives Amazon, the seller of its product, an immediate edge over its consumers. It knows their buying patterns and needs, through which they can analyze a buyer’s willingness and ability to pay. This is not only a consequence of the amazon databases and data analyses systems knowing what a user wants, but their voice assistant devices such as Alexa, are even capable to analyze user emotions. This helps them in both setting product pricing according to the variables, as well as manipulating customers and persuading them to buy more. Beyond this, Amazon has been stepping up to compete Google and Facebook in the Ad-tech industry. Through the enormous information it acquires on its users, it not only boosts its sales to the user, but opens its ad platforms to targeted marketing. Hence, in the scenario, not only user’s privacy and integrity remains compromised to Amazon, but the user’s data, and with it, their information, remain a commodity that Amazon uses to sell services to other parties as well.
